@@ -36,6 +36,8 @@ A Reading List Semi Supervised Object Detection
 
 **(CVPR)** [DETReg: Unsupervised Pretraining With Region Priors for Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Bar_DETReg_Unsupervised_Pretraining_With_Region_Priors_for_Object_Detection_CVPR_2022_paper.pdf); Amir Bar, Xin Wang, Vadim Kantorov, Colorado J. Reed, Roei Herzig, Gal Chechik, Anna Rohrbach, Trevor Darrell, Amir Globerson; [[code]](https://github.com/amirbar/DETReg)
 
+**(CVPR)** [Label Matching Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Label_Matching_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf); Binbin Chen, Weijie Chen, Shicai Yang, Yunyi Xuan, Jie Song, Di Xie, Shiliang Pu, Mingli Song, Yueting Zhuang; [[code]](https://github.com/HIK-LAB/SSOD)
+
 **(CVPR)** [MUM : Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.pdf); JongMok Kim, Jooyoung Jang, Seunghyeon Seo, Jisoo Jeong, Jongkeun Na, Nojun Kwak; [[code]](https://github.com/JongMokKim/mix-unmix)
 
 **(CVPR)** [Omni-DETR: Omni-Supervised Object Detection with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Omni-DETR_Omni-Supervised_Object_Detection_With_Transformers_CVPR_2022_paper.pdf); Pei Wang, Zhaowei Cai, Hao Yang, Gurumurthy Swaminathan, Nuno Vasconcelos, Bernt Schiele, Stefano Soatto; [[code]](https://github.com/amazon-science/omni-detr)
