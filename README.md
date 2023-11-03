@@ -46,6 +46,8 @@ A Reading List Semi Supervised Object Detection
 
 **(CVPR)** [Omni-DETR: Omni-Supervised Object Detection with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Omni-DETR_Omni-Supervised_Object_Detection_With_Transformers_CVPR_2022_paper.pdf); Pei Wang, Zhaowei Cai, Hao Yang, Gurumurthy Swaminathan, Nuno Vasconcelos, Bernt Schiele, Stefano Soatto; [[code]](https://github.com/amazon-science/omni-detr)
 
+**(CVPR)** [Scale-Equivalent Distillation for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Scale-Equivalent_Distillation_for_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf); Qiushan Guo, Yao Mu, Jianyu Chen, Tianqi Wang, Yizhou Yu, Ping Luo
+
 **(CVPR)** [Unbiased Teacher v2: Semi-supervised Object Detection for Anchor-free and Anchor-based Detectors](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Unbiased_Teacher_v2_Semi-Supervised_Object_Detection_for_Anchor-Free_and_Anchor-Based_CVPR_2022_paper.pdf); Yen-Cheng Liu, Chih-Yao Ma, Zsolt Kira; [[code]](https://github.com/facebookresearch/unbiased-teacher-v2)
 
 **(ECCV)** [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690036.pdf); Hongyu Zhou, Zheng Ge, Songtao Liu, Weixin Mao, Zeming Li, Haiyan Yu, Jian Sun; [[code]](https://github.com/Megvii-BaseDetection/DenseTeacher)
@@ -66,6 +68,8 @@ A Reading List Semi Supervised Object Detection
 **(CVPR)** [Humble Teachers Teach Better Students for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf); Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang
 
 **(CVPR)** [Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Instant-Teaching_An_End-to-End_Semi-Supervised_Object_Detection_Framework_CVPR_2021_paper.pdf); Qiang Zhou, Chaohui Yu, Zhibin Wang, Qi Qian, Hao Li
+
+**(CVPR)** [Interactive Self-Training With Mean Teachers for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf); Qize Yang, Xihan Wei, Biao Wang, Xian-Sheng Hua, Lei Zhang
 
 **(ICCV)** [End-to-End Semi-Supervised Object Detection with Soft Teacher](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_End-to-End_Semi-Supervised_Object_Detection_With_Soft_Teacher_ICCV_2021_paper.pdf); Mengde Xu, Zheng Zhang, Han Hu, Jianfeng Wang, Lijuan Wang, Fangyun Wei, Xiang Bai, Zicheng Liu; [[code]](https://github.com/microsoft/SoftTeacher)
 
