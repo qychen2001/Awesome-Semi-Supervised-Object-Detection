@@ -65,6 +65,8 @@ A Reading List Semi Supervised Object Detection
 
 ## 2021
 
+**(CVPR)** [Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf); Zhenyu Wang, Yali Li, Ye Guo, Lu Fang, Shengjin Wang
+
 **(CVPR)** [Humble Teachers Teach Better Students for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf); Yihe Tang, Weifeng Chen, Yijun Luo, Yuting Zhang
 
 **(CVPR)** [Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Instant-Teaching_An_End-to-End_Semi-Supervised_Object_Detection_Framework_CVPR_2021_paper.pdf); Qiang Zhou, Chaohui Yu, Zhibin Wang, Qi Qian, Hao Li
