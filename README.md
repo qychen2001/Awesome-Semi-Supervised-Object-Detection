@@ -71,3 +71,7 @@ A Reading List Semi Supervised Object Detection
 ## 2020
 
 **(arXiv)** [A Simple Semi-Supervised Learning Framework for Object Detection](https://arxiv.org/abs/2005.04757); Kihyuk Sohn, Zizhao Zhang, Chun-Liang Li, Han Zhang, Chen-Yu Lee, Tomas Pfister; [[code]](https://github.com/google-research/ssl_detection/)
+
+## 2019
+
+**(NeurIPS)** [Consistency-based Semi-supervised Learning for Object detection](https://proceedings.neurips.cc/paper_files/paper/2019/file/d0f4dae80c3d0277922f8371d5827292-Paper.pdf); Jisoo Jeong, Seungeui Lee, Jeesoo Kim, Nojun Kwak; [[code1]](https://github.com/soo89/CSD-SSD), [[code2]](https://github.com/soo89/CSD-RFCN)
