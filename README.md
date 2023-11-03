@@ -34,6 +34,8 @@ A Reading List Semi Supervised Object Detection
 
 **(AAAI)** [Semi-supervised Object Detection with Adaptive Class-Rebalancing Self-Training](https://doi.org/10.1609/aaai.v36i3.20234); Fangyuan Zhang, Tianxiang Pan, Bin Wang
 
+**(arXiv)** [S4OD: Semi-Supervised learning for Single-Stage Object Detection](https://arxiv.org/pdf/2204.04492.pdf); Yueming Zhang, Xingxu Yao, Chao Liu, Feng Chen, Xiaolin Song, Tengfei Xing, Runbo Hu, Hua Chai, Pengfei Xu, Guoshan Zhang
+
 **(CVPR)** [Dense Learning based Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Dense_Learning_Based_Semi-Supervised_Object_Detection_CVPR_2022_paper.pdf); Binghui Chen, Pengyu Li, Xiang Chen, Biao Wang, Lei Zhang, Xian-Sheng Hua; [[code]](https://github.com/chenbinghui1/DSL)
 
 **(CVPR)** [DETReg: Unsupervised Pretraining With Region Priors for Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Bar_DETReg_Unsupervised_Pretraining_With_Region_Priors_for_Object_Detection_CVPR_2022_paper.pdf); Amir Bar, Xin Wang, Vadim Kantorov, Colorado J. Reed, Roei Herzig, Gal Chechik, Anna Rohrbach, Trevor Darrell, Amir Globerson; [[code]](https://github.com/amirbar/DETReg)
